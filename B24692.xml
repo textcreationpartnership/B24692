@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration set forth by the lord lieutenant and councell for vindicating the honour and justice of His Majesties government and ministers heere, from severall foule and scandalous aspersions endeavoured to be layed upon them by Alice, Lady Moore, Viscountesse Dowager of Drogheda, Sir Patrick Wemys, knight, and Captaine Iohn Ponsonby, in severall letters (here also inserted) directed from the said persons to some persons in His Majesties kingdom of England.</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24692</idno><idno type="EEBO-CITATION">31355078</idno>
+  <idno type="VID">205874</idno>
+  <idno type="EEBO-PROQUEST">2240896115</idno>
+  
+            <idno type="STC">Wing I389A</idno>
+            <idno type="OCLC">31355078</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24692)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration set forth by the lord lieutenant and councell for vindicating the honour and justice of His Majesties government and ministers heere, from severall foule and scandalous aspersions endeavoured to be layed upon them by Alice, Lady Moore, Viscountesse Dowager of Drogheda, Sir Patrick Wemys, knight, and Captaine Iohn Ponsonby, in severall letters (here also inserted) directed from the said persons to some persons in His Majesties kingdom of England.</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+               </titleStmt>
+               <extent>[3], 2-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Anno Dom. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cashel Diocesan Library (Cashel, Ireland).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Moore of Drogheda, Alice Moore, --  Viscountess, fl. 1645.</term>
+               <term type="personal_name">Wemys, Patrick, --  Sir.</term>
+               <term type="personal_name">Ponsonby, John, --  Captain.</term>
+               <term type="geographic_name">Ireland --  History --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205874:1"/>
+            <pb facs="tcp:205874:1"/>
+            <p>
+               <hi>A</hi> DECLARATION, SET FORTH BY THE <hi>LORD LIEƲTENANT</hi> AND COVNCELL.</p>
+            <p>For vindicating the Honour and justice of His MAJESTIES Government and Ministers heere, from severall foule and scandalous aspersions endeavoured to be layed on them:</p>
+            <p>By <hi>Alice</hi> Lady <hi>Moore,</hi> Viscountesse dowager of <hi>Drogheda,</hi> Sir <hi>Patrick Wemys</hi> Knight, and Captaine <hi>Iohn Ponson<g ref="char:EOLhyphen"/>by,</hi> in severall Letters (here also inserted) directed from the said persons to some <hi>persons in His</hi> MAJESTIES <hi>Kingdom of England.</hi>
+            </p>
+            <p>DVBLIN, <hi>Printed by</hi> VVILLIAM BLADEN, <hi>Printer to the Kings most Excellent Majesty,</hi> Anno Dom. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:205874:2"/>
+            <pb facs="tcp:205874:2"/>
+            <head>¶ By the Lord Lieutenant and Councell.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS about the sixt day of <hi>Ianuary</hi> last, there was Intelligence given to Vs the Lord Liev<g ref="char:EOLhyphen"/>tenant, of a dangerous Conspiracy, plotted and in<g ref="char:EOLhyphen"/>tended, for surprising His Majesties Towne and Garrison of <hi>Drogheda,</hi> Whereupon sundry exami<g ref="char:EOLhyphen"/>nations were taken for finding out the truth of the matter in all circumstances, and the Contrivers and intended Actors therein, that so We might be the better guided to prevent that dangerous Designe, which Wee cleerely foresaw might (in the consequences of it) break out into far greater and more generall mischiefs, espe<g ref="char:EOLhyphen"/>cially in the distracted condition wherein this Kingdome stands in present. And whereas Wee found in those Examinations divers Persons charged in severall degrees, concerning the said Conspiracie. Wee therefore (in discharge of Our dutie) were necessitated to com<g ref="char:EOLhyphen"/>mitt to restraint as many of them as could be found, as well for pre<g ref="char:EOLhyphen"/>venting the execution of the Designe, as for present terror to others, not to presume to attempt any thing in that matter, as also to the end those Prisoners might be (in due time) fully heard, upon a faire and indifferent triall, amongst which Persons soe committed, there were these three, namely <hi>Alice</hi> Lady <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore</hi> Viscountes <hi>Dowager</hi> of <hi>Drogheda,</hi> Sir <hi>Patr: Wemys</hi> knight and Captaine <hi>Iohn Pon<g ref="char:EOLhyphen"/>sonby,</hi> who not only by the testimony of others, but alsoe by their owne confessions on their examinations, stand charged (though in differing degrees) concerning that Conspiracy, and who notwith<g ref="char:EOLhyphen"/>standing
+<pb n="2" facs="tcp:205874:3"/> the great lenitie and mildnes of the proceedings held with them, have in severall Letters, lately come to Our hands (and sign<g ref="char:EOLhyphen"/>ed by them, and directed to severall Persons in his Majesties King<g ref="char:EOLhyphen"/>dome of <hi>England</hi>) endeavoured to lay fowle and scandalous asper<g ref="char:EOLhyphen"/>sions on his Majesties Government and us his ministers therein, and that intentionally and purposely done by them, in hope by such un<g ref="char:EOLhyphen"/>just and causeles aspersions invented by them, to gaine beleefe from some (who know not the truth of the matter) that their committal was causles and our proceeding with them unjust. And albeit Wee no way intend hereby to prejudge the said Persons or any others charged with guilt in that Conspiracy, but doe leave the judgement and determination thereof to those Lawes and judicatories to whose Cognisance the same is proper. Yet considering how undutyfully and indeed injuriously his Majesties authority in Our persons is traduced by those three Persons, in their said Letters, as if We had in their Cases varied from the rules of justice and equitie, with this adition also in the case of Sir <hi>Patrick Wemys,</hi> that he labors to inferr a nationall quarrell, in regard of his being of the scottish Nation, And in regard We find by some of those Letters which Wee have seen, that some of those Persons have written other Letters upon this Subjest, wherein it is probable, that they have not spared to traduce this Government as Wee find they have done in the said Letters which are come to Our hands, Wee therefore hold it fit for vindicat<g ref="char:EOLhyphen"/>ing the honor and justice of his Majesties Government intrusted with us, and the uprightnes and moderation of the proceeding in this matter of Vs his Ministers, to set forth this Iust and true Decla<g ref="char:EOLhyphen"/>ration.</p>
+            <p>When by divers Examinations Wee found those Persons charg<g ref="char:EOLhyphen"/>ed touching the said Conspiracy, Wee did <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in discharge of Our duty) committ them to restraint, in his Majesties Castle of Dublin, where Persons of eminent qualitie are usually committed, and there they were to continue in the condition of close Prisoners, untill they
+<pb n="3" facs="tcp:205874:3"/> should be fully examined, Sir <hi>Patrick Wemys</hi> was committed on the 11 of <hi>Ianuary,</hi> the Lady <hi>Moore</hi> on the 16 of <hi>Ianuary,</hi> and Captaine <hi>Ponsonby</hi> on the 8th. day of <hi>Ianuary</hi> in which con<g ref="char:EOLhyphen"/>dition they continued (yet every of them with the attendants they desired, and with full and free admission of all needfull Provision and accomodation for them) untill the 22 of <hi>Ianuary,</hi> and then (their examinations having been fully taken) they were set free from their close Imprisonment, yet so as they were to continue Pri<g ref="char:EOLhyphen"/>soners in the Castle, having the liberty of the House untill further direction of this Board.</p>
+            <p>But afterwards Wee observing that many persons repaired to them, under cullor of visits, &amp; that they made ill use of the favor granted them, in the freeing them from their close imprisonment, Wee then (to preuent any further evill Consequence to the publique) did order at this board, on the 28th. of <hi>Ianuary,</hi> that none should be admitted to repaire to them, without speciall licence from Vs the Lord Liev<g ref="char:EOLhyphen"/>tenant, other then their Wives and Children, and necessary Servants, and in that manner they continued for a time, no manner of restric<g ref="char:EOLhyphen"/>tion being at any time used, for bringing them all needfull provision for sustinance and accomodation.</p>
+            <p>On the 26th. of <hi>April</hi> the Lady <hi>Moore</hi> petitioning this Board for her liberty, upon such security and conditions as We should thinke fit, it was signified to Vs on her behalfe, that in case Wee should not think it fit to release her, she desired that she might be confined for a time to her Sonnes house at Saint Mary Abbey in <hi>Dublin,</hi> and after to a Country house of her mothers at <hi>Dromnagh,</hi> within two miles of <hi>Dublin,</hi> and thereupon (in favor to her) it was then or<g ref="char:EOLhyphen"/>dered, that she and others should become bound by Recognizance to his Majestie with condition that she should confine her selfe during Easter tearm, to the said house in <hi>Dublin,</hi> and that at the end of that tearme she should confine her selfe to the Towne and Lands of <hi>Dromnagh,</hi> and to appeare Personally at this Board within two
+<pb n="4" facs="tcp:205874:4"/> dayes next after notice or warning to be left to that purpose at the said house in Saint Mary Abbey, and then not to depart without speciall licence of this Board, and that Recognizance being acknow<g ref="char:EOLhyphen"/>ledged, she was then released from her imprisonment in His Majes<g ref="char:EOLhyphen"/>ties Castle of <hi>Dablin,</hi> and in that liberty she still continues.</p>
+            <p>And for Sir <hi>Patrick Wemys</hi> &amp; Captain <hi>Ponsonby,</hi> they still con<g ref="char:EOLhyphen"/>tinue prisōers in his Majesties said Castle, without any further strict<g ref="char:EOLhyphen"/>nes used towards them other then as is formerly herein mentioned.</p>
+            <p>And considering that the Offences wherewith those three persons stand charged, are of such an high and transcendent nature, that if they were brought to their trialls, it is likely (though Wee not pre<g ref="char:EOLhyphen"/>judge them) it might perhaps prove penall to them, in a higher de<g ref="char:EOLhyphen"/>gree, then it seemes they themselves doe apprehend, Wee therefore have not been soe forward hetherto in bringing them to their trialls, as being indeed unwilling to use the vttermost severity against them. And whether or noe that favor and indulgence used by us towards them have found with them, that gratitude which Wee have de<g ref="char:EOLhyphen"/>served may appeare in their said Letters which follow here verbatim.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I Am confident that you have heard of my harsh and cruell usage, I still remaine in the same condition, and am not to expect other, from these hands, by whose rodd I am scourged, I have no comfort, but a just cause, from which neither I nor my companions will shrinke, though death pur<g ref="char:EOLhyphen"/>sue us, I desire your care of us, so as we may not be forgotten, if possible safety and releasement may be procured for us, Our enemies are bould, &amp; we humbled, and are not to thinke of happinesse, if it come not from the Kingdom wherein you are, I know I need not use much perswasions to you, beleev<g ref="char:EOLhyphen"/>ing you have not forgotten our miseries, since you were with
+<pb n="5" facs="tcp:205874:4"/> us, Therefore I will no further trouble you, but conclude, wishing you and yours increase of happinesse with honor, and shall ever remaine</p>
+                  <closer>
+                     <signed>
+                        <hi>Your affectionat Aunt</hi> and humble Servant, <hi>Alice Moore.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>From the Castle of</hi> Dublin,
+<date>
+                           <hi>the</hi> 22. <hi>of</hi> April, 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For Major Generall <hi>Crawford,</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lo.</salute>
+                  </opener>
+                  <p>Yours of <hi>October</hi> came not to my hands untill the <hi>March</hi> following, in which time here landed the Bishop of <hi>Ossory Williams,</hi> who reported confidently your Lordship was dead, so as all things which belonged unto you heere, was thought to be disposed of, which was in the power of our State, This was a great addition to the heaviest of my misfortunes had I not been revived by a better and truer informer, soone after, this prevented me with passion, for so great a misfortune, to be added unto my miseries, so that I did not acquaint your Lordship with my cruell usage, which power here pleases to inflict on me, for no other cause, then adhering to those English, which are unwilling to humble themselves unto the mercie of the Irish, I perceive by your Lordships Letter, the constant affection you still beare to my deare Lord and his, who are now great sufferers, being loaded with frownes and severe punishment from those of whom wee were to expect justice, in another kind, but now poore Protestants despaires of that, and therefore must resolve to taste and drinke deeply of the bitter cupp, before wee shall be admitted unto the sweet, My Lo. our hope is much in your Lordship and your
+<pb n="6" facs="tcp:205874:5"/> like, that wee shall not be forgotten, but that some course may be thought on for our release, I am now in the Castle close Prisoner, where I have been fifteen weeks, no meanes allowed, all sustenance taken from me other then what I can shift for, I know your Lordships goodnesse will judge this harsh dealing with the wife of him that hath lost life spent his Estate to the utmost of his power no way receiving any repa<g ref="char:EOLhyphen"/>ration other then this I now suffer with many threats of de<g ref="char:EOLhyphen"/>stroying the remaine of his deare blood, Good my Lord give me leave to urge your favour in this great extreamity, to take me so farr into your thoughts, as you will procure what reme<g ref="char:EOLhyphen"/>dy may be had, for our redemption, out of this cruell subjec<g ref="char:EOLhyphen"/>tion, for which favor with many others you will ever oblige,</p>
+                  <closer>I humbly beg your Lordships care of my deare <hi>Adam.</hi>
+                     <signed>
+                        <hi>Your most humble</hi> Servant <hi>Alice Moore.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>From the Castle of</hi> Dublin,
+<date>the 23. of <hi>April,</hi> 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Right Honorable the Lord Visc. <hi>Conway</hi> these present.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I Received a Letter from Sir <hi>Francis Hamilton,</hi> wherein hee was pleased to take notice of the hard condition of my self and others, that are heere committed close prisoners, in the Castle of <hi>Dublin</hi> these sixteen weeks, and withall hee writ to mee, that himselfe and my friends there, were thinking of some course for my release, and tels me, there is none so rea<g ref="char:EOLhyphen"/>dy as your selfe, to contribute for my enlargement, Sir I give you many thanks, that you will be pleased at this time to
+<pb n="7" facs="tcp:205874:5"/> stand my friend, when for the most part all my friends hath forsaken mee, I suffer heere for my affection, and for the dis<g ref="char:EOLhyphen"/>affection I haue to those, that has ruind us all, and in the third place for being a Scotsman, these be my crimes, and if they had been greater, I did not expect so much severity from the hands of those, whom I have so faithfully and affectionatly served, but time will trie all, and I hope and am confident of it, that when busines comes to be rightly understood, I sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll not be found the man, that deserved so heavy a punishment, as is now laid upon me, Sir I shall earnestly intreat your fa<g ref="char:EOLhyphen"/>vour, and furtherance at this time, that you would be pleased to joyne with the rest of my friends there, that some speedy course may be taken for my enlargement, the manner how to effectuat it, I leave to your selfe and the rest of my friends, &amp; whatsoever favour you shall be pleased to extend to me at this time, shall be ever acknowledged by Sir</p>
+                  <closer>
+                     <dateline>Dublin <hi>Castle</hi>
+                        <date>
+                           <hi>the</hi> 23. April, 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your affectionat friend</hi> and faithfull Servant <hi>P. Wemys.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>For my noble friend Sir <hi>Robert King</hi> Knight, these at <hi>London,</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Worthy Cozen,</salute>
+                  </opener>
+                  <p>I Have written to some of my friends at <hi>London,</hi> and ac<g ref="char:EOLhyphen"/>quainted them how I am close prisoner at the Castle, the cause of my Comittall, and the particulars of it, I leave to the relation of M<seg rend="sup">r</seg>. <hi>Traile,</hi> I shall intreat you to joine with the rest of my friends, concerning a course to be taken for my en<g ref="char:EOLhyphen"/>largement, for I have many enemies heere, and the more, be<g ref="char:EOLhyphen"/>cause
+<pb n="8" facs="tcp:205874:6"/> I am a Scotsman, Sir I have that confidence in you al<g ref="char:EOLhyphen"/>though our acquaintance be almost forgotten, yet our relati<g ref="char:EOLhyphen"/>on in blood cannot, that you will contribute all you can for my enlargement, for my sufferings heere are much, I would have enlarged my selfe at this time, but I dare not, for feare my Letters miscarry, so expecting your assistance at this time of my greatest need, I am,</p>
+                  <closer>
+                     <dateline>Dublin <hi>Castle</hi>
+                        <date>23 April, 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your affectionate Cozen</hi> and Servant, <hi>P. Wemys.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>For my noble cozen Colo<g ref="char:EOLhyphen"/>nel <hi>Wemys</hi> these at <hi>London.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I believe you have heard long ago, how Sir <hi>Robert Hannay,</hi> &amp; my self are here close prisoners in the Castle of <hi>Dublin,</hi> &amp; I believe you have heard it diversly reported the cause why we were Comitted, but for my owne part I know no good nor just ground for it, but that wee are Scotismen, and so fit to suffer, whatsoever shall be laid upon us, They will not bring us to any tryall, but leaves us heere, where wee shall be all our dayes, if our friends doe not mediate for our release, for wee have no friends heere, no not one, After you have spo<g ref="char:EOLhyphen"/>ken with M<seg rend="sup">r</seg>. <hi>Traile,</hi> if you will be pleased to afford us your favour, in using some meanes to helpe, towards our enlargement, you shall much oblige</p>
+                  <closer>
+                     <dateline>Dublin <hi>Castle</hi>
+                        <date>
+                           <hi>the</hi> 23 April, 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your affectionate frien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> and Servant, <hi>P. Wemys.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>Sir, I pray you present my hum<g ref="char:EOLhyphen"/>ble service to your owne Lady, and to <hi>Sterling,</hi> and his noble Lady, My good Wife doth the like to you all.</p>
+                  </postscript>
+                  <trailer>
+                     <hi>For my noble friend Generall Major</hi> Crawford, <hi>these:</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="9" facs="tcp:205874:6"/>
+                  <opener>
+                     <salute>Honorable Sir,</salute>
+                  </opener>
+                  <p>THe small acquaintance I had with you in <hi>Ireland,</hi> with the ample relation of your noble Acts, since your depar<g ref="char:EOLhyphen"/>ture from us, have emboldned me, to present these my mise<g ref="char:EOLhyphen"/>rable conditions, for daily being frightned by the great in<g ref="char:EOLhyphen"/>cursions of the bloudy lately called Rebells here with us, even unto our chiefest Garrisons, some few Officers with my selfe, resolved to expell them, our Towne, whose words and actions rather seemed to perfect their begun massacre, upon the remaine of the poore English, then any way to sup<g ref="char:EOLhyphen"/>port our fading condition, thinking thereby, better to have defended our selves, against our exorbitant adversary, but being betrayed by a false brother, wee were attached, and kept as close prisoners, this sixteen weeks, and as yet heares no comfort of our releasement, yea even reliefe to support nature is denyed, though petitioned for, in so much that if some speedy course be not taken for our enlargement, our being will be yet more miserable, so that noble Sir my hum<g ref="char:EOLhyphen"/>ble suite is, that you would be pleased to remember us, when God shall render some considerable Prisoners into your hands, which wee conceive may gaine our Libertie, sooner then otherwise, which if you will be pleased remember, Your Honor shall ever oblige,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your ever humble Servant</hi> to serve you <hi>Iohn Ponsoble.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>From the Castle of</hi> Dub<g ref="char:EOLhyphen"/>lin,
+<date>25. <hi>of</hi> April, 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="10" facs="tcp:205874:7"/>
+            <p>In the next place Wee thinke fit to observe some particulars of the many apparant untruths and falsehoods contained in the said Letters, which (considered in themselves, and reflecting soe highly and uniustly on the persons of Vs, who have the honor to serve his Majestie in the Government of this his Kingdome) are new Offences, a part and separate from the other matters laid to their charge.</p>
+            <p>The Lady <hi>Moore</hi> in her said Letters of the 22 of <hi>April</hi> pretends first, <hi>That she still remaines in a condition of harsh and cruell usage, and that she is not to expect other, from those hands by whose Rodde she is scourged,</hi> And whether or noe she hath cause so to complain appeares in the proceeding with her and herein formerly mentioned.</p>
+            <p n="2">
+               <hi>2<seg rend="sup">ly</seg>. That she hath no comfort but a just cause, from which</hi> She saies <hi>neither she nor her Companions will shrinke, though Death pursue them.</hi> And if the purposing and laboring to betray and surprize one of his Majesties Townes and Garrisons (which is the cause for which she was committed) be a Iust cause, then indeed and not otherwise, is her cause Iust, and consequently the resolution of her and those Companions she mentions, wherein is also observable, that she could not complaine of any such closenes of restraint, but that she and those others might have accesse one to another, whereby she might soe well understand their mindes and resolutions, and mu<g ref="char:EOLhyphen"/>tually agree on an undutifull and presumptious persisting in their Crimes.</p>
+            <p>Thirdly That <hi>her Enemies are bold and she and hers hum<g ref="char:EOLhyphen"/>bled, and are not to thinke of happines if it came not from the Kingdome of England,</hi> But who she means by those Enemies, Wee understand not, yet if she thereby intend Vs, Wee confesse Wee are Enemies to the Crimes wherewith she is charged, though not to her, And she had ere this time found the fruits of it in her inlarg<g ref="char:EOLhyphen"/>ment, if inlargment be the happines she expects out of England, and that in an neerer way, then from those in England, from whom (It
+<pb n="11" facs="tcp:205874:7"/> seemes) she expects it, if Wee had found her carriage such, since her committall, as became her in loyalty to his Majesty and dutie to His authority.</p>
+            <p>In the said Lady <hi>Moores</hi> Letters to the Lord viscount <hi>Conway,</hi> dated the 23 of <hi>April</hi> (wherein what her expressions are towards the Lord Bishop of Ossory, and how unfit and uncomely from a person of honor, towards a person of soe eminent a Dignity in the Church, the Letters declare) she sayes, first that <hi>on the report of the Lord Conways death, all things which belonged to him here was thought to be disposed of, which was in the Power of the State,</hi> whereas Wee did not soe much as heare of the Lord Conwayes death and consequently could not therefore intend to dispose of any thing of his in Our power, and if Wee had heard of his death, and had disposed of what he held which was in our power to dispose, Wee had therein done noe wrong to him or any other.</p>
+            <p>Secondly she pretends there also <hi>cruell usage</hi> which she says <hi>power here inflicts on her</hi> and that as she alleageth, <hi>for no other cause then adhering to the English,</hi> And that her usage hath not been cruell, and that nothing is inflicted on her for adhering to the English, appeares by what Wee have herein formerly declared, But that which she calls an adhering to the English, was in truth that, then which there cold bee nothing at this time more prejudiciall to the English, and which (by the blessing of God on Our Endeavors for the English,) was prevented.</p>
+            <p>Thirdly that the late Lord Moores freinds are <hi>loaden with frownes and severe punishments, from those of whom they were to expect justice in another kind,</hi> which how untrue and scandalous it is, may appeare in that there is none of those she men<g ref="char:EOLhyphen"/>tions, under question, but her selfe, and whether there be not cause to question her, and to proceed against her with more severity then We have hetherto done, her owne Examinations and the testimo<g ref="char:EOLhyphen"/>nies of others (which on tryall of the matter when it shall come to
+<pb n="12" facs="tcp:205874:8"/> judgement, and which in the mean time Wee forbeare to prejudge) will sufficiently manifest.</p>
+            <p>Fourthly that now poore <hi>Protestants despaire of justice, and therefore must resolve to tast and drink deeply of the bitter cup before they be admitted to the sweet</hi> which is an aspertion of a most high nature, and by her extended to a large latitude in sufferers, but limitted by her as to those that cause it, only to us, (for soe her Letters insinuate) whereas all our labor and endeavor is, to redeeme the poore Protestants out of their miscries, and from tas<g ref="char:EOLhyphen"/>ting further of that bitternes, whereof indeed Wee (with great grief and disquiet of minde) doe know and feel, that they have already too deeply tasted, wherein also We (being of them) have with them borne Our part in the comon Calamity, in a very high degree, And cer<g ref="char:EOLhyphen"/>tainly if she have that sense of the Protestants sufferings, which she pretends, it is on her part a mean retribution of gratitude to us, who suffer and labor soe much for the benefit and security of the Protes<g ref="char:EOLhyphen"/>tants, to charge us soe wrongfully and unjustly, And it seemes shee hath the rather used Vs his Majesties ministers, in that manner, be<g ref="char:EOLhyphen"/>cause the Sweet which she mentions in her Letters, she expects not from his Majesties authority entrusted with Vs, but as (her Let<g ref="char:EOLhyphen"/>ters imply) some other way.</p>
+            <p>Fifthly that she was on the 23 of April when her Letters were dated a close <hi>Prisoner fifteen weeks in the Castle, and noe meanes allowed her, and all sustenance taken from her, other then what she can shift for,</hi> Whereas she well knowes that she was a close Prisoner noe longer then for six dayes, namely from the 16 to the 22 of <hi>Ianuary,</hi> and that from the first moment of her being questioned, to this time, there hath been noe part of her estate in any kind soe much as touched, by any of his Majesties ministers, so care<g ref="char:EOLhyphen"/>full have Wee been of her, and soe farr from abridging her in her meanes, or taking any sustenance from her, which was never hindred but alwaies admitted her with all the respect due to a Person of her quality.</p>
+            <pb n="13" facs="tcp:205874:8"/>
+            <p>Sixtly that <hi>She knowes it will be judged harsh dealing, with the wife of him that lost his life, spent his estate to the ut<g ref="char:EOLhyphen"/>most, noe way receiving any reparation, other then this she now suffers, with many threats of destroying the remaine of his deere blood,</hi> and she concludes urging remedy <hi>for her and o<g ref="char:EOLhyphen"/>thers redemption out of this</hi> (as she calls it) <hi>cruell subjection.</hi> That which she calls hard dealing, is the mildnes wherewith Wee have hetherto proceeded with her, and for the deceased Lord her hus<g ref="char:EOLhyphen"/>band Wee acknowledge his expense, his meritts, his death in his Majesties service, and Wee retaine an honorable memory thereof, And which is much more, As his Majesty by his Royall Letters sent hether soon after the Death of the late Lord Moore, was graciously pleased to take notice thereof with great honor to that Lord soe his Majestie by his Royall Letters of the 15 of <hi>May</hi> last (even since he had notice of the said Lady <hi>Moores</hi> restraint) hath (in favor of the new Lord <hi>Moore</hi> her Son) required Warrant to be given for exonerating and discharging him, of all primer seisings meane pro<g ref="char:EOLhyphen"/>fitts, and other Duties whatsoever to which his Majesty is or may bee any way intituled, by the Death of his said Father, or otherwise, and likwise for all fines for alienations, and that he may sue either a generall or speciall Livery of all his Lands, without paying any thing to his Majesty for the same, which is a high and gracious favor and of great benefite and advantage to the said now Lord <hi>Moore,</hi> and Wee doubt not but (in due time) he and others of the late Lord <hi>Moores</hi> Posterity, will find further comfortable fruits of his Ma<g ref="char:EOLhyphen"/>jesties gracious favor towards them, which Wee his Majesties Mini<g ref="char:EOLhyphen"/>sters will further and advance for them to His Majesty with our best endeavours, And even this Lady her selfe (if she would be plea<g ref="char:EOLhyphen"/>sed to value it) hath had in all her occasions, and particularly in this very matter, for which she is now questioned, much the more fa<g ref="char:EOLhyphen"/>vour and respect from Vs, in relation to her Husbands meritts, But as to the threats of destroying the remain of his blood, We con<g ref="char:EOLhyphen"/>fesse
+<pb n="14" facs="tcp:205874:9"/> freely that Wee cannot imagine what she meanes thereby, and indeed they are tearmes as new to us, as they would have bin strange in thēselves, if they had proceeded from any other, then one who hath suffered her selfe to be so far transported with Passion, as to invent so many other things, strang and untrue, as Wee find contained in her said Letters, and which Wee could not have beleeved were possible for her to invent, if Wee had not seen them in her said Letters, writ<g ref="char:EOLhyphen"/>ten and subscribed with her owne hand, and for her termes of <hi>cruell subjection,</hi> They are of the same peece with the rest of her expressions, which yet Wee are not willing to draw into so severe a construction, as the words may beare, and as perhaps she intended, But Wee are heartily sorry, that a person whom We so much regarded, and of whom wee have been so carefull should inforce Vs, in vindicating the truth, to lay open against our nature, so much of her infirmity (that wee may call it no worse) which must needs though truely reflect upon her in her honour and credit in a high degree.</p>
+            <p>Sir <hi>Patrick Wemys,</hi> in his said Letters directed to Sir <hi>Ro<g ref="char:EOLhyphen"/>bert King</hi> saies, <hi>that he suffers here for his affection,</hi> without mentioning to whom or what he is affected, <hi>and for disaffection to those that have ruined us all, and in the third place for be<g ref="char:EOLhyphen"/>ing a Scottish man those he saies are his Crimes, and addes, that if they had been greater, he did not expect so much se<g ref="char:EOLhyphen"/>verity from the hands of those, whom he saies he hath so faithfully and affectionatly served, affirming also, that hee will not be found to have deserved so heavy a punishment as is now laid upon him,</hi> And in his said Letters to Colonell <hi>Wemys</hi> he saies <hi>he hath many enemies here, and the more because he is a Scottish man,</hi> and in his Letters to Colonell <hi>Crawford,</hi> he saies, <hi>he knowes no good or just ground for his and Sir Robert Hannayes Comittall, but that they are Scottish men, and so fit to suffer whatsoever shall be laid on them,</hi> affirming also, <hi>that We will not bring them to any tryall.</hi> And it seemes to
+<pb n="15" facs="tcp:205874:9"/> Vs very strange, that he (who aswell otherwise, as particularly by his owne Examination taken) knowes well the just grounds of his com<g ref="char:EOLhyphen"/>mittall, should yet assigne three other reasons for it, and none of them true, but indeed those he chooseth rather, and especially that which runs through all his Letters, his being a Scottish man, whence though very unjustly he labours to inferr a Nationall quarrell, who yet may well remember, what particular trust and extraordinary estimation he alwaies had from Vs the Lord Lievtenant, and that for many yeares and so still continued, untill the very moment of the discovery of the said conspiracy, during all which time, We well knew him to be a Scottish man, which may testifie for Vs (especially to him) that We have no disaffection to that Nation, of whom We well know there are very many, that upon all occasions doe manifest Loyall and duti<g ref="char:EOLhyphen"/>full affections to His Majestie, and such of those as are in this King<g ref="char:EOLhyphen"/>dome, doe gather the blessed fruits of His Majesties justice and pro<g ref="char:EOLhyphen"/>tection, and have been and still are embraced by Vs His Majesties ministers, equally with his Majesties Subjects of other his Domini<g ref="char:EOLhyphen"/>ons, with all due respect, and that without any Nationall distincti<g ref="char:EOLhyphen"/>on, And whether or noe he have cause to complaine of any severity from Our hands, or that We have done any thing towards him, other then what Wee ought to have done, in the duty Wee owe to the Pub<g ref="char:EOLhyphen"/>lique trust of his Majesties affaires, and interests here, will appeare when his owne and other Examinations taken concerning him, come to be published, and how much We were troubled to find Our selves enforced by him to such a proceeding against him, there are that can testifie, and Wee are well assured, he knows it, and yet that hee (of all others) should lay such a scandall on us, We cannot but be very sensible thereof. And as to that <hi>of not bringing them to triall</hi> Wee confesse Wee apprehended that deferring, as a great favour and a Degree of mercy towards them, which also will appeare in due time.</p>
+            <p>
+               <hi>Captaine Ponsonbie</hi> in his Letters of the 25 <hi>of April</hi> direc<g ref="char:EOLhyphen"/>ted (as is conceived) <hi>to Colonel Crawford</hi> pretends, <hi>that hee
+<pb n="16" facs="tcp:205874:10"/> and others had resolved to expell Rebells from Drogheda, and that he was kept close Prisoner sixteen Weekes,</hi> whereas hee well knowes, the Conspiracie was to surprize that Towne and Garrison, for which it seemes, he hath not yet repented, in that hee saies, <hi>He and the rest were betrayed by a false Brother,</hi> nor hath he dealt any truer in his allegation of close imprisonment, which he sayes was sixteen weekes, whereas in truth it was but from the Eight to the 22 <hi>of Ianuary.</hi>
+            </p>
+            <p>By all which Particulars it may appeare how false and scandalous those aspersions are, which those Persons by their said Letters desire to fasten upon Vs, and that Wee are and have been in this (as Wee have alwayes been, and shall bee in all things els) very farre from of<g ref="char:EOLhyphen"/>fering the least wrong or injustice, or any kind of hard measure, or harsh or cruell usage to those Persons, and especially from doing or so<g ref="char:EOLhyphen"/>much as intending any thing, which may in any construction, bee conceived to relate in the least degree to the raising of any Nationall quarrell or difference.</p>
+            <closer>
+               <dateline>Given at his Majesties Castle of <hi>Dublin</hi>
+                  <date>the 9 day <hi>of Iune</hi> 1645.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ri. Bolton, Canc.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha. Lambart.</hi>
+                     </item>
+                     <item>
+                        <hi>Gerrard Lowther.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Lucas.</hi>
+                     </item>
+                     <item>
+                        <hi>Roscomon.</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Chichester.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Bolton.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Forth.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Cloyne.</hi>
+                     </item>
+                     <item>
+                        <hi>Ge. Shurley.</hi>
+                     </item>
+                     <item>
+                        <hi>Fr. Willoughby.</hi>
+                     </item>
+                     <item>
+                        <hi>G. Wentworth.</hi>
+                     </item>
+                  </list>
+               </signed> GOD SAVE THE KING.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205874:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
